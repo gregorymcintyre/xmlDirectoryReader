@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# code setup
+*.code-workspace
+
+# Git
+.gitignore

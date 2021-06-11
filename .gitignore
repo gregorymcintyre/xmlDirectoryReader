@@ -38,3 +38,7 @@ main
 
 # Git
 .gitignore
+
+# temp and results
+.res
+.tmp

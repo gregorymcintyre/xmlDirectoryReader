@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+main
 
 # Precompiled Headers
 *.gch
@@ -32,6 +33,7 @@
 *.app
 
 # code setup
+.vscode/
 *.code-workspace
 
 # Git
